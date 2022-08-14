@@ -6,7 +6,7 @@ The Purpose of this project is to help evaluate the feasibility of Investing in 
 
 We created a Tableau Dashboard for this project and the link is as follows:
 
-https://public.tableau.com/authoring/CitibikeChallenge_16602809091740/CitibikeAnalysis#1
+https://public.tableau.com/app/profile/mohammad.bin.shahid/viz/CitibikeChallenge_16602809091740/CitibikeAnalysis#1
 
 ## Results:
 
